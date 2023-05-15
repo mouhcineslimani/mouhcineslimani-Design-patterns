@@ -1,0 +1,8 @@
+N°;Name;Category;Intent
+1; Singleton; Creational; Ensure a class only has one instance, and provide a global point of access to it.
+2; Prototype; Creational; Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
+3; Factory Method; Creational; Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+4; Abstract Factory; Creational; Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+5; Builder; Creational; Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+6; Adapter; Structural; Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+7; Brigde; Structural; Decouple an abstraction from its implementation so that the two can vary independently.
